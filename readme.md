@@ -24,7 +24,4 @@ python -m env myenv
 .\myenv\Scripts\activate
 ````
 
-### Run  this command to get install all required libraries
-````
-pip install -r .\requirements.txt
-````
+

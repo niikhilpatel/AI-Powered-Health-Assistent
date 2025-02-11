@@ -23,5 +23,10 @@ python -m env myenv
 ````
 .\myenv\Scripts\activate
 ````
+### To run app.py 
+````
+streamlit run .\app.py
+````
+
 
 

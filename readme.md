@@ -1,4 +1,16 @@
-# Health Assistent
+# Ai Powered Health Assistent
+
+
+### For cloning the project run this.
+````
+git clone https://github.com/niikhilpatel/AI-Powered-Health-Assistent.git
+
+````
+
+### Run  this command to get install all required libraries
+````
+pip install -r .\requirements.txt
+````
 
 ### Create Environment
 
@@ -10,4 +22,9 @@ python -m env myenv
 
 ````
 .\myenv\Scripts\activate
+````
+
+### Run  this command to get install all required libraries
+````
+pip install -r .\requirements.txt
 ````
